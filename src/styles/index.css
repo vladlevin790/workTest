@@ -18,6 +18,8 @@ body {
     flex-direction: column;
     flex-flow: wrap;
     text-align: center;
+    justify-content: space-between;
+    align-items: center;
     position: absolute;
     gap:15px;
     top: 50%;
